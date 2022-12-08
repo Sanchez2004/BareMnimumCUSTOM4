@@ -1,3 +1,10 @@
+
+/*
+*
+* !This is the old code! Please see new code.
+*
+*/
+
 //Vars for timing leds, regurdless of the number of leds.
 unsigned long signalShort = 200;
 unsigned long signalLong = 500;
